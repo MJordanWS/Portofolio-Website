@@ -13,5 +13,5 @@ document.getElementById('loginform').addEventListener('submit', function(event){
     }else{
         alert("username atau password tidak sesuai");
     }
-});
+}); 
     
